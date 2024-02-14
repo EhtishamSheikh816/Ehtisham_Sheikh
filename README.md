@@ -1,2 +1,3 @@
 # Ehtisham_Sheikh
-This Is My First Repository.
+This Is my first Git Repository.
+Author - Muhammad Ehtisham
